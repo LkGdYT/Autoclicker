@@ -1,2 +1,2 @@
 # Autoclicker
-An autoclicker made by me, read how to use file to learn how to use it, other things directly into the file
+A minecraft autoclicker, READ HOW TO USE BEFORE USING, OR YOU WOULDNT UNDERSTAND HOW IT WORKS!
