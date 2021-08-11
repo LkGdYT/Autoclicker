@@ -1,0 +1,11 @@
+In order to use this software you need to have python installed on your device. (download at https://www.python.org/downloads)
+
+Then you will have to install the required libraries, found in the requirements software.
+
+To install them open the command prompt (search cmd in the windows search bar and you will find it)
+Then type in the cmd pip install *name of a requirement* to install it
+Install every of the requirements in the requirements file and then you will be good to go.
+If you experience any issue feel free to dm Lk_Gd#0848 on discord or join his discord's server with this link: https://discord.gg/6C9gSVJjrp
+
+Once you did that you will need to update your attack/destroy button on minecraft to p. This way everytim you will click you will do 4 clicks.
+THANKS YOU FOR USING MY SOFTWARE, I HOPE YOU WILL LIKE IT
